@@ -2,3 +2,4 @@ Dockerfile
 proxy-api
 .git
 .dockerignore
+vendor
